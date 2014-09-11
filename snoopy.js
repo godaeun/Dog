@@ -5,7 +5,11 @@ function setup() {
   //background(red, gree, blue);
   background(57, 159, 231);
 
-  stroke(255);
+  // stroke(red, green, blue);
+  stroke(255, 0, 0);
+  // ... 빨간색으로 그리기 (rect, line, ellipse등)
+  stroke(0, 255, 0);
+  // ... 녹색으로 그리기 (rect, line, ellipse등)
 
     rect(0,0,20,20);
     rect(20,0,20,20);
