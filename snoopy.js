@@ -10,6 +10,7 @@ function setup() {
     // ... 빨간색으로 그리기 (rect, line, ellipse등)
     stroke(0, 255, 0);
     // ... 녹색으로 그리기 (rect, line, ellipse등)
+    fill(255, 232, 204);    
 
     rect(0,0,20,20);
     rect(20,0,20,20);
